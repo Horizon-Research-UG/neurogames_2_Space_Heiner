@@ -1,0 +1,6 @@
+Log Datei
+=====================
+Aufruf #1
+Aufruf #2
+Aufruf #3
+Aufruf #4
